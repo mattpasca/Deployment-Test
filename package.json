@@ -7,6 +7,8 @@
     "preview": "astro preview"
   },
   "dependencies": {
+    "@astrojs/compiler-binding-wasm32-wasi": "0.5.2",
+    "@bruits/satteri-wasm32-wasi": "0.10.5",
     "astro": "^7.3.8"
   }
 }
